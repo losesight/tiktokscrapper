@@ -1,2 +1,3 @@
 # tiktokscrapper
-Downloads all tiktoks on a users page 
+Download an Individual  or all videos on a users page.
+
