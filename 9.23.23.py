@@ -8,7 +8,7 @@ import time
 
 
 driver = webdriver.Chrome()
-driver.get("")
+driver.get("Insert the link of the tiktok page you'd like")
 
 time.sleep(1)
 
